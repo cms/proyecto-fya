@@ -1,0 +1,36 @@
+x1 construir obras en Seguimiento eliminarlo
+2  preguntar lo de fotos para ver q cambia
+x3 AUMENTAR CONTRATO en proceso SELECCION CONSTRUCTORA
+4 YA CAMBIE entradas de PAGO PRES DE CONSTRU 
+5 TENER EN CUENTA EN TODOS LOS PROCESOS:
+
+la entrada de CONSTRUIR OBRAS siempre sera:
+-	Factura de Pago Parcial
+-	Factura por Pago de Adelanto
+y su salidas serán siempre
+-	Obra Parcialmente construida
+-	Obra Terminada
+
+
+las entrada DEL PROCESO SEGUIMIENTO Y ENTREGA DE OBRA:
+-	Obra Parcialmente construida
+-	Obra Terminada
+
+las salidas DEL PROCESO SEGUIMIENTO Y ENTREGA DE OBRA:
+-	Fotos del Avance de la Obra
+-	Acta de Recepción y Conformidad de Obra aprobada por el Administrador (a menos q se kiera cambiar este ultimo solo por  Acta de Recepción y Conformidad de Obra)
+
+
+VERIFICA DOC QUE ESTAS ENTRADAS Y SALIDAS SE ESTE APLICANDO EN TODO.. TANTO EN MACRO COMO EN PROCESOS
+
+6 El grafico esta bien de MACRO CONTROL DE PAGOS... SOLO FALTA EDITAR LOGO BIZAGI
+
+LA UNICA MODIFICACION QLE HICE AL BIZAGI FUE PONER LOS NUMEROS
+
+7 (respecto a los procesos de las otras macros)HOY NO HE CAMBIADO NINGUN BIZAGI ... a las justas hice modificaciones en la caracterizacion q  ya deje como estaba..
+
+8 (respecto a la macro control de pago)las modificaciones que he hecho han sido en en caracterizaciones... especificar un pokito mas en descripcion y en lo que es base legal 
+
+cuando dices "En este caso, los procesos en morado" eso cambie poniendolo punto aparte y borrar "en este caso" por que no suena bien y porque no es solo en ese caso sino en todo el proyecto- me hace acordar a "cabe resaltar" :D
+
+
