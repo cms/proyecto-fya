@@ -1,7 +1,5 @@
-x1 construir obras en Seguimiento eliminarlo
 2  preguntar lo de fotos para ver q cambia
-x3 AUMENTAR CONTRATO en proceso SELECCION CONSTRUCTORA
-4 YA CAMBIE entradas de PAGO PRES DE CONSTRU 
+
 5 TENER EN CUENTA EN TODOS LOS PROCESOS:
 
 la entrada de CONSTRUIR OBRAS siempre sera:
@@ -31,6 +29,6 @@ LA UNICA MODIFICACION QLE HICE AL BIZAGI FUE PONER LOS NUMEROS
 
 8 (respecto a la macro control de pago)las modificaciones que he hecho han sido en en caracterizaciones... especificar un pokito mas en descripcion y en lo que es base legal 
 
-cuando dices "En este caso, los procesos en morado" eso cambie poniendolo punto aparte y borrar "en este caso" por que no suena bien y porque no es solo en ese caso sino en todo el proyecto- me hace acordar a "cabe resaltar" :D
+cuando dices "En este caso, los procesos en morado" eso cambie poniendolo punto aparte y borrar "en este caso" por que no suena bien y porque no es solo en ese caso sino en todo el proyecto- me hace acordar a "cabe resaltar"
 
 
