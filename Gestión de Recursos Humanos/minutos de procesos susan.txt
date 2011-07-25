@@ -1,4 +1,5 @@
-Audio
+
+35Audio
 
 Seguimiento de Personal (15"09')
 
@@ -7,3 +8,22 @@ Capacitación de Personal (17"43')
 Despido de Personal (25"30')
 
  
+35 38
+antes de oincorporase si tiene antecedentes laborales, seguro que tiene pagos a seguros social afp y debe venir arrastrando .cts 
+cuando una persona se incorpora se fija el sueldo: sueldo mensuales y complemntarios(cts,
+cuentas onp,afp y la del seguro social
+
+trabajadores que vienen con
+bajo modalidad de contratos -> no tiene seguro social
+
+donde quieres que te pongamos afp, onp que empresa?
+si no tenia cts-> le hago de oficio 
+registro de seguro social
+
+pago cts y seguro como se realiza?
+en la boleta de pago le incluyes la retencion
+el trabajador paga onp o afp
+y el seguro social el empleador paga en la planilla
+y el CTS la empresa paga cada seis meses, pero alli se hace un provisionamiento mensual para que a los seis haya plata.
+
+
